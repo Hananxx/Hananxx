@@ -9,7 +9,7 @@
    <a href="https://hananhakami.vercel.app/">Personal Website</a> •
   <a href="https://www.linkedin.com/in/hanan-hakami/">Linkedin</a> 
   <br/> <br/>
-<img src="https://user-images.githubusercontent.com/58954229/128691801-31657a4d-9173-4b4f-a741-53ad0f46aa6a.png" width="220px">
+<img src="https://user-images.githubusercontent.com/58954229/128699792-d632d791-a3aa-4869-8673-250fd278191c.png" width="230px">
         <h4/>
       <h3/>
 <img src="https://user-images.githubusercontent.com/58954229/128692605-089cc143-e1af-45d2-b46e-e898b1d719c1.png"/>
