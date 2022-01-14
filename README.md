@@ -26,8 +26,8 @@
   <p/>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hananxx&repo=Memes-Maker&bg_color=EDE9FE&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hananxx&repo=Circus-shows-tickets&bg_color=FCE7F3&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hananxx&repo=laravel-chat&bg_color=EDE9FE&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hananxx&repo=Memes-maker&bg_color=FCE7F3&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58954229/128692605-089cc143-e1af-45d2-b46e-e898b1d719c1.png"/>
